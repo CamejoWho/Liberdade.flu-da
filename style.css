@@ -1,0 +1,9 @@
+body {
+    background-color: red;
+}
+#cabecalho {
+    background-color:#7755a6;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
