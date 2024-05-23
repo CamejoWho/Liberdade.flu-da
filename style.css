@@ -1,9 +1,23 @@
-body {
-    background-color: red;
-}
 #cabecalho {
     background-color:#7755a6;
     display:flex;
-    justify-content: center;
-    align-items: center;
+    justify-content:center;
+}
+ul {
+    list-style-type:none;
+    align-items:center; 
+    display:inline-flex;
+          
+}
+li {
+    color:white;
+}
+#seletor {
+    display:flex;
+    justify-content:center;
+}
+#poster {
+    background-color:#8b629f;
+    display:flex;
+    justify-content:center;
 }
