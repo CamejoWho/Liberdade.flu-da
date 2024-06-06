@@ -1,0 +1,30 @@
+body {
+    margin:0;
+}
+#cabecalho {
+    background-color:#7755a6;
+}
+ul {
+    list-style-type:none;
+    align-items:center; 
+    display:flex;
+    justify-content: space-between;
+    li { 
+    color:white;
+    }
+}
+#seletor {
+    display:flex;
+    justify-content:space-around;
+}
+#poster {
+    background-color:#8b629f;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    width:100%;
+}
+.alinhamento {
+    display: flex;
+    align-items: center;
+}
