@@ -28,3 +28,17 @@ ul {
     display: flex;
     align-items: center;
 }
+.divisao {
+    display:flex;
+    justify-content: center;
+}
+#ajustes {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+footer {
+    background-color:#7755a6;
+    display: flex;
+    align-items:start; 
+}
