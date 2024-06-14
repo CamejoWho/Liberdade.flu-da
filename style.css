@@ -33,6 +33,17 @@ ul {
     display:flex;
     justify-content: center;
 }
+h2 {
+    color: #8b629f;
+}
+hr {
+    width: 30%;
+    color:#8b629f
+}
+.hr {
+    display: flex;
+    align-items:center;
+}
 #ajustes {
     display: flex;
     align-items: center;
@@ -45,8 +56,22 @@ ul {
     padding:20px ;
     display: block;    
 }
+#justificar {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    color:white;
+    background-color:#8b629f;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+}
 footer {
+    color:white;
     background-color:#7755a6;
     display: flex;
-    align-items:start; 
+    align-items:center;
+    
 }
